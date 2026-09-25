@@ -3,5 +3,7 @@ using namespace std;
 
 int main() {
     cout << "Olá, Git!\n";
-    return 0;
+    int a = 10, b = 20;
+    cout<<"a= "<<a<<" b= "<<b<<endl;
+    cout<<"soma a+b = "<<a+b<<endl;
 }
